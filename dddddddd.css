@@ -1,0 +1,26 @@
+nav li a{
+    text-decoration: none;
+}
+nav li{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+html{
+        background-image: repeating-linear-gradient(to bottom, red , black);
+    }
+
+
+h4{
+    font-style: italic;  
+    font-size: small; 
+    font-family: 'Times New Roman', Times, serif; 
+    color: blue;
+}
+nav ul li p {
+    color: pink; 
+    font-weight: bold;
+    display: inline;
+    margin-right: 10px;
+  }
+  

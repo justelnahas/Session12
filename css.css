@@ -1,0 +1,11 @@
+.row1{
+    display: inline;
+}
+.collumn1{
+    display: block;
+    display:flexbox;
+}
+.collumn2{
+    display: block;
+    display:flexbox;
+}
